@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = ""
+subtitle = "Postingann"
 title = "Post Terakhir"
 weight = 60
 widget = "pages"
