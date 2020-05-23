@@ -20,6 +20,7 @@ exclude_featured = false
 publication_type = ""
 tag = ""
 [design]
+show_social = true
 view = 2
 [design.background]
 
