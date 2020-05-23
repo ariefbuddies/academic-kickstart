@@ -1,6 +1,7 @@
 +++
 authors = []
 date = ""
+draft = true
 featured = false
 projects = []
 subtitle = ""
