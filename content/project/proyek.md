@@ -4,7 +4,6 @@ all_day = true
 authors = []
 date = ""
 date_end = ""
-draft = true
 event = "Proyekk"
 event_url = ""
 featured = false
