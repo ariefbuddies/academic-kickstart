@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 featured = false
 projects = []
 subtitle = "Post 2222"
