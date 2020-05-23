@@ -3,8 +3,8 @@ authors = []
 date = ""
 featured = false
 projects = []
-subtitle = "Postinganjing"
-summary = "Fuckkkk"
+subtitle = ""
+summary = ""
 tags = []
 title = "POSTS"
 [image]
